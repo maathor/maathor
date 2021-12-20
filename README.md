@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maathor)](https://github-readme-stats-one-bice.vercel.app/api?username=maathor&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maathor)](https://github-readme-stats-one-bice.vercel.app/api?username=maathor&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=dracula)
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/maathor/langs)](https://githubtrends.io)
 
 <!--
